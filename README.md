@@ -17,8 +17,7 @@ https://github.com/Oseriki/bikesharing/blob/main/IMAGES/Overview.JPG
 
 ### Result 2: Peak Hours and Bikes Utilization
 Analysis shows that the peak ridind hours are from 8am in the morning and 7pm in the everning. Also, analysis shows the the bikes that are used more ferequently then others. This information when combined with the peak hours data can be used to identify bikes that can be taken off service and serviced or repaired during off peak period.
-See dashboard image below: 
-/IMAGES/peakPeriod_vs_bikeUtilization.JPG
+See dashboard image below:github.com/Oseriki/bikesharing/blob/main/IMAGES/peakPeriod_vs_bikeUtilization.JPG
 
 ### Result 3: Users Checkout Time
 As seen in the image below, most rides happen within within 1 hour of time. In other words, most user rent the bike for less than one hour.
