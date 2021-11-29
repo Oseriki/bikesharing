@@ -1,4 +1,4 @@
-# bikesharing Analysis
+# Bikesharing Analysis
 
 ## The purpose of this analysis are as follows:
 -	Import data into Tableau.
