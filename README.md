@@ -44,5 +44,5 @@ All in all most of our users tend to be males with ride time under one hour. Als
 
 ### Two additional visualizations suggestions for future analysis
 - Trip duration (by user, by gender and checkout time) for other months. August seems to be a busy month for the bikesharing business. I think it will be important to about other months.
-- 
+- Also, I think it will be interesting to visualize the users who uses the service the most. By knowing this users the service develop a model to market itself to potential users with similar charateristics. 
 
